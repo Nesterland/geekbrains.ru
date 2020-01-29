@@ -14,3 +14,4 @@ if viruchka > izderjki:
 else:
     print('У Вас за данный период убыток в размере: руб.', (viruchka - izderjki))
     print('Надо работать усердней иначе вы банкрот')
+
