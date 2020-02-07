@@ -1,0 +1,4 @@
+Ivanov 10000
+penrov 5000
+tutin 25000
+Perlov 10000
